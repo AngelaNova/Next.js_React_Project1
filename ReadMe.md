@@ -63,9 +63,9 @@ This project consists of several components that together form a website showcas
   - Links: Provides links to different sections of the website.
   - Contact Details: Includes contact information for the company.
 
+<div></div>
 
-
-Here are pictures from day1 of developing the website:
+<b>Here are pictures from day1 of developing the website: </b> </div>
 
 <img width="869" alt="image" src="https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/c7784f42-34c9-4ed7-9bb8-ce26f5aa06bb">
 
@@ -73,15 +73,17 @@ Here are pictures from day1 of developing the website:
 
 <img width="220" alt="image" src="https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/5e4a0fef-eb7c-41dd-92ad-872f25826046">
 
-
-After multiple modifications:
-Laptop View:
+</div>
+After multiple modifications: </div>
+Laptop View: </div>
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/5caf23f3-c49f-472b-81d2-598d2fee4b80)
-
+</div>
 iPad View:
+</div>
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/52a51cd9-16e5-4e5a-97e3-f94475357312)
-
+</div>
 Mobile Device View:
+</div>
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/2de5d5f2-3185-4fc0-83e6-c6893c1751d1)
 
 
