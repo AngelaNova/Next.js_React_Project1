@@ -65,7 +65,7 @@ This project consists of several components that together form a website showcas
 
 <div></div>
 
-<b>Here are pictures from day1 of developing the website: </b> </div>
+<h4>Here are pictures from day1 of developing the website: </h4> </div>
 
 <img width="869" alt="image" src="https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/c7784f42-34c9-4ed7-9bb8-ce26f5aa06bb">
 
@@ -74,17 +74,17 @@ This project consists of several components that together form a website showcas
 <img width="220" alt="image" src="https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/5e4a0fef-eb7c-41dd-92ad-872f25826046">
 
 </div>
-After multiple modifications: </div>
-Laptop View: </div>
+<h4>After multiple modifications: <h4/> </div>
+<h5>Laptop View:</h5> </div>
 
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/5caf23f3-c49f-472b-81d2-598d2fee4b80)
 </div>
-iPad View:
+<h5>iPad View:</h5>
 </div>
 
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/52a51cd9-16e5-4e5a-97e3-f94475357312)
 </div>
-Mobile Device View:
+<h5>Mobile Device View:</h5>
 </div>
 
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/2de5d5f2-3185-4fc0-83e6-c6893c1751d1)
