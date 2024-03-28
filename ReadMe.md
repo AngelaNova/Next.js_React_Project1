@@ -76,14 +76,17 @@ This project consists of several components that together form a website showcas
 </div>
 After multiple modifications: </div>
 Laptop View: </div>
+
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/5caf23f3-c49f-472b-81d2-598d2fee4b80)
 </div>
 iPad View:
 </div>
+
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/52a51cd9-16e5-4e5a-97e3-f94475357312)
 </div>
 Mobile Device View:
 </div>
+
 ![image](https://github.com/AngelaNova/Next.js_React_Project1/assets/160551855/2de5d5f2-3185-4fc0-83e6-c6893c1751d1)
 
 
